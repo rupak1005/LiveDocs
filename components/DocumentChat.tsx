@@ -189,13 +189,13 @@ const DocumentChat = ({ roomId, isOpen, onClose }: DocumentChatProps) => {
               <p className="text-sm font-medium text-white/90 mb-3">💡 Try asking:</p>
               <div className="space-y-2">
                 <div className="bg-blue-500/10 border border-blue-500/20 rounded-lg p-3 hover:bg-blue-500/20 transition-colors cursor-pointer">
-                  <p className="text-sm text-blue-300">"What is this document about?"</p>
+                  <p className="text-sm text-blue-300">&ldquo;What is this document about?&rdquo;</p>
                 </div>
                 <div className="bg-purple-500/10 border border-purple-500/20 rounded-lg p-3 hover:bg-purple-500/20 transition-colors cursor-pointer">
-                  <p className="text-sm text-purple-300">"Summarize the main points"</p>
+                  <p className="text-sm text-purple-300">&ldquo;Summarize the main points&rdquo;</p>
                 </div>
                 <div className="bg-emerald-500/10 border border-emerald-500/20 rounded-lg p-3 hover:bg-emerald-500/20 transition-colors cursor-pointer">
-                  <p className="text-sm text-emerald-300">"What are the key takeaways?"</p>
+                  <p className="text-sm text-emerald-300">&ldquo;What are the key takeaways?&rdquo;</p>
                 </div>
               </div>
             </div>
