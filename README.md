@@ -27,31 +27,35 @@ A modern, real-time collaborative document editor built with Next.js, featuring 
 - **Vector Search** - Semantic search within documents
 - **Error Handling** - Graceful handling of API limits and errors
 
-## 📸 Screenshots
+
+## Key Features & Screenshots
+
+Here's a glimpse into the LiveDocs experience:
 
 ### Landing Page
-![Landing Page](public/screenshots/Pasted%20image.png)
-*Modern landing page with animated grid beams background*
+A modern landing page with an engaging background to welcome users.
+<img src="public/screenshots/Pasted%20image%20(2).png" alt="Landing Page" width="500"/>
 
 ### Dashboard
-![Dashboard](public/screenshots/Pasted%20image%20(2).png)
-*Clean dashboard interface with document management*
+Your clean and intuitive dashboard for efficient document management.
+<img src="public/screenshots/Pasted%20image.png" alt="Dashboard" width="500"/>
 
 ### Document Editor
-![Document Editor](public/screenshots/Pasted%20image%20(3).png)
-*Real-time collaborative editor with floating toolbar*
+Experience our powerful real-time collaborative editor with a handy floating toolbar.
+<img src="public/screenshots/Pasted%20image%20(3).png" alt="Document Editor" width="500"/>
 
-### AI Chat Interface
-![AI Chat](public/screenshots/Pasted%20image%20(4).png)
-*AI-powered document chat with provider selection*
+### AI Chat Integration
+Get smart assistance directly within your documents with our AI chat.
+<img src="public/screenshots/Pasted%20image%20(5).png" alt="AI Chat" width="500"/>
 
-### Collaboration Features
-![Collaboration](public/screenshots/Pasted%20image%20(5).png)
-*Live cursors and real-time collaboration*
+### Real-time Collaboration
+See who's working on what, when, and where with seamless collaboration features.
+<img src="public/screenshots/Pasted%20image%20(4).png" alt="Collaboration" width="500"/>
 
-### Mobile Responsive
-![Mobile View](public/screenshots/Pasted%20image%20(6).png)
-*Fully responsive design for all devices*
+### Mobile View
+Work on the go! LiveDocs is fully responsive and optimized for mobile devices.
+
+<img src="public/screenshots/Pasted%20image%20(6).png" alt="Mobile View" width="250"/>
 
 ## Tech Stack
 
